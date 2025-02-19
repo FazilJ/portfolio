@@ -9,11 +9,11 @@ const Home = () => {
         {/* Left Section */}
         <div className="order-2 lg:order-1 flex flex-col items-center md:items-start justify-start space-y-5 text-center md:text-left">
           <h1 className="text-3xl md:text-5xl font-bold">
-            I’m <span className="text-[#fe5617]">Mohammed Fazil</span>
+            I’m <span className="text-[#fe5617]">Mohammed Fazil J</span>
           </h1>
           <h2 className="text-2xl md:text-3xl font-bold flex gap-2">
-            <span className="text-[#fe5617]">I’m a</span>
-            {/* <Typewriter
+            {/* <span className="text-[#fe5617]">I’m a</span>
+            <Typewriter
               options={{
                 strings: [
                   "Developer.",
@@ -25,16 +25,14 @@ const Home = () => {
                 loop: true,
                 delay: 50,
                 deleteSpeed: 30,
-              }}
-            /> */}
-           React Developer
+              }} */}
+
+{/* /> */}
           </h2>
           {/* About Me */}
           <p className="text-lg md:text-xl text-gray-700 font-medium">
-            A passionate MERN stack developer 
-            dedicated to building user-friendly web applications. I thrive on
-            learning and sharing knowledge as a tutor and content creator.
-          </p>
+            A passionate React developer 
+            dedicated to building user-friendly web applications.</p>
 
           {/* Contact Information */}
           <div className=" flex flex-col space-y-3 md:space-y-0 md:flex-row md:gap-6 text-lg md:text-xl font-semibold ">
@@ -53,7 +51,7 @@ const Home = () => {
           </div>
           {/* Button */}
           <div className="bg-[#fe5617] px-5 py-2 rounded-2xl font-bold ">
-            <a href="">Download CV</a>
+            <a href="/src/Assets/Capture001.png" download="Mohammed_Fazil_CV.png">Download CV</a>
           </div>
         </div>
 

@@ -60,19 +60,19 @@ const Header = () => {
             } lg:hidden mt-3 flex justify-center gap-5`}
           >
             <a
-              href="https://github.com/AMOHAMMEDIMRAN"
+              href="https://github.com/FazilJ"
               className="  hover:text-[#fe5617] "
             >
               <FaGithub size={29} />
             </a>
             <a
-              href="https://www.linkedin.com/in/mohammedimrana/"
+              href="https://www.linkedin.com/in/fazil-j-6bb80226b/"
               className="hover:text-[#fe5617]"
             >
               <FaLinkedin size={29} />
             </a>
             <a
-              href="https://www.instagram.com/immucoder/?__pwa=1"
+              href=""
               className="hover:text-[#fe5617]"
             >
               <FaInstagram size={29} />
@@ -83,19 +83,19 @@ const Header = () => {
         {/* Social Media Links */}
         <div className="hidden lg:flex w-[100px] items-center justify-between">
           <a
-            href="https://github.com/AMOHAMMEDIMRAN"
+            href="https://github.com/FazilJ"
             className="hover:text-[#fe5617]"
           >
             <FaGithub size={29} />
           </a>
           <a
-            href="https://www.linkedin.com/in/mohammedimrana/"
+            href="https://www.linkedin.com/in/fazil-j-6bb80226b/"
             className="hover:text-[#fe5617]"
           >
             <FaLinkedin size={29} />
           </a>
           <a
-            href="https://www.instagram.com/immucoder/?__pwa=1"
+            href=""
             className="hover:text-[#fe5617]"
           >
             <FaInstagram size={29} />

@@ -3,29 +3,19 @@ import {
   FaCss3Alt,
   FaJsSquare,
   FaReact,
-  FaNodeJs,
   FaGithub,
   FaGitAlt,
-  FaFigma,
   FaNode,
 } from "react-icons/fa";
 import {
   SiTailwindcss,
   SiBootstrap,
-  SiExpress,
-  SiNextdotjs,
-  SiNetlify,
-  SiMongodb,
-  SiSocketdotio,
   SiPostman,
-  SiGraphql,
   SiRedux,
-  SiJsonwebtokens,
-  SiRender,
 } from "react-icons/si";
-import { TbBrandFramerMotion } from "react-icons/tb";
+
 import { DiVisualstudio } from "react-icons/di";
-import { IoLogoNpm, IoLogoVercel } from "react-icons/io5";
+
 
 const About = () => {
   return (
@@ -39,8 +29,8 @@ const About = () => {
         {/* About Me Section */}
         <p className="text-lg md:text-xl text-gray-700 text-center leading-relaxed">
           I’m <span className="font-bold text-[#fe5617]">Mohammed Fazil</span>,
-          I am studing BCA in Vels Institute of Science, Technology & Advanced Studies (VISTAS)
-          a passionate React developer with experience in building
+          I am studed BCA in Vels Institute of Science, Technology & Advanced Studies (VISTAS)
+in Batch(2023) a passionate React developer with experience in building
            2 projects.
         </p>
 

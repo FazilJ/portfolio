@@ -1,6 +1,6 @@
 import { FaPhoneAlt, FaEnvelope } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
-import { FaGithub, FaLinkedin,  } from "react-icons/fa";
+import { FaGithub, FaLinkedin,FaInstagram  } from "react-icons/fa";
 import { useState } from "react";
 
 const Contact = () => {
@@ -80,12 +80,12 @@ const Contact = () => {
                 >
                   <FaLinkedin size={29} />
                 </a>
-                {/* <a
-                  href="https://www.instagram.com/immucoder/?__pwa=1"
+                <a
+                  href=""
                   className="hover:text-[#fe5617]"
                 >
                 <FaInstagram size={29}/>
-                </a> */}
+                </a>
               </div>
             </div>
           </div>
